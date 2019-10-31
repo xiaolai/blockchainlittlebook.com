@@ -194,7 +194,7 @@
 
 ### 10. 小白如何购买比特币
 
-目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messsenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
+目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
 
 Mixin 下载方式：
 
