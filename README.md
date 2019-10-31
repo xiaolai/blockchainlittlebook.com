@@ -279,7 +279,7 @@ dPoS（Delegated Proof of Stake）是 PoS（Proof of Stake）的进一步改良�
 
 恒信网络是世界上第一个已被证明为可行的**无币区块链解决方案**。
 
-恒信网络通过使用 TEE（Trusted Execution Environment，可信执行环境）生成了一个由中心化管理渐进为区中心化管理的可以无需奖励机制的分布式网络。除了 TEE 之外，恒信还结合了 DAG（Directed Acyclic Graph，有向无环图）为基础，辅以 ABFT（Asynchronous Byzantine Fault Tolerance，异步拜占庭容错）算法作为解决方案，构造了一个成本低廉，易维护、易使用，性能高，兼容性强的不可篡改的分布式网络。
+恒信网络通过使用 TEE（Trusted Execution Environment，可信执行环境）生成了一个由中心化管理渐进为去中心化管理的可以无需奖励机制的分布式网络。除了 TEE 之外，恒信还结合了 DAG（Directed Acyclic Graph，有向无环图）为基础，辅以 ABFT（Asynchronous Byzantine Fault Tolerance，异步拜占庭容错）算法作为解决方案，构造了一个成本低廉，易维护、易使用，性能高，兼容性强的不可篡改的分布式网络。
 
 TEE（Trusted Execution Environment，可信执行环境）的作用是，向公众证明网络中某个节点（或称服务器） “正在运行的代码” 的确是 “它声称正在运行的代码”。简单来说，你可以把具备可信执行环境的服务器理解为一个透明盒子，外部可以 “看到” 它内部正在运行的代码 —— 换言之，没有任何人能够在不被察觉的情况下改变这个透明盒子里正在运行的代码。
 
@@ -317,7 +317,7 @@ TEE（Trusted Execution Environment，可信执行环境）的作用是，向公
 
 经过多年的发展，区块链世界里的交易所也有了一定的创新，比如，链上交易所，[FoxOne](https://fox.one/)，一切交易都发生在链上，运营方没有作假的可能…… 关键在于，把这个交易所当作钱包使用，是没有负担的，因为按照他们的机制运营方无法动用用户的币。
 
-对小白来说，最为友好也最为安全方便的多币种钱包是 Mixin Messenger，在[之前的章节](/#/?id=_10-小白如何购买比特币)中已经介绍过。
+对小白来说，最为友好也最为安全方便的多币种钱包是 Mixin Messenger，在之前的章节中已经介绍过。
 
 事实上，最关键的地方在于密码管理。在这件事儿上不要省钱，一定要使用付费服务，比如，我是用的密码管理软件是 [1Password](https://1password.com)。还要养成一个重要的习惯：
 
