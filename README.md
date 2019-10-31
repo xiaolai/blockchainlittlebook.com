@@ -382,6 +382,12 @@ TEE（Trusted Execution Environment，可信执行环境）的作用是，向公
 > * 保留原文出处，加上原站链接：https://blockchainlittlebook.com
 > * 如若做出了修改，最好在保留原文的情况下，加上醒目的修改标注。
 
+欢迎各种语言的翻译 —— 请提交 pull request。请将翻译文件放置到相应的目录之中，文件仍然命名为 README.md，比如
+
+> /en/README.md
+>
+> /jp/README.md
+
 **你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
 
 在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
