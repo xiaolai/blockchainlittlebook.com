@@ -426,3 +426,13 @@ Fork 完成之后，点开 Settings
 ![](images/custom-domain.png)
 
 大功告成！几分钟之后，你就可以看到你自己的域名已经生效了，若是你身边有人想要了解区块链，那么你就可以给他属于你自己的链接了。如果需要修改内容，直接在 GitHub 页面里编辑即可……
+
+注意：原仓库会经常更新，所以，你也要将你的 Fork 保持更新：
+
+```bash
+git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
+cd blockchainlittlebook.com
+git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
+git pull upstream master
+git push -u origin master
+```
