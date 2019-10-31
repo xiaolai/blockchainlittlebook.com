@@ -1,6 +1,6 @@
 # 区块链小白书
 
-李笑来（著）&copy; 2019
+[李笑来](http://lixiaolai.com)（著）&copy; 2019
 
 -----
 
@@ -436,3 +436,26 @@ git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
 git pull upstream master
 git push -u origin master
 ```
+
+## 关于作者
+
+李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+
+### 出版书籍
+
+> * TOEFL 核心词汇 21 天突破
+> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
+> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
+> * 通往财富自由之路
+> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
+> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
+> * [定投改变命运（第三版）](https://onregularinvesting.com)
+
+### 其它
+
+> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
+> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
+> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
+> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
+> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
+> * [区块链小白书](https://blockchainlittlebook.com)
