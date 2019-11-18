@@ -460,6 +460,10 @@ git push -u origin master
 
 李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
+## 关于批注者
+
+JKR Family，又称“家人组”，是一些想通过炒币和玩dapp来回本的玩家成立的非营利性组织。
+
 ### 出版书籍
 
 > * TOEFL 核心词汇 21 天突破
