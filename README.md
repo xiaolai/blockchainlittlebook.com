@@ -274,7 +274,7 @@
 
 **<小刀批注>**
 
-李老师又在书里卖私货了，要说最广泛应用的多币种钱包，mixin无论从哪个角度来说都排不上号吧？在巴比特推出的[2019区块链价值榜白皮书](https://www.8btc.com/article/510690)中，排在前五的分别是Cobo，比特派，麦子钱包，TokenPocket，Imtoken。其中TokenPocket因为更新频繁，功能丰富，大量集成了各类第三方dapp应用，成为了大量币圈入门用户的首选。这里简单介绍一下[TokenPocket](https://www.tokenpocket.pro/)的下载方式，iOS用户可以在iTunes上下载[正式版](https://itunes.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)，或是TestFlight下载[激活了Dapp功能的测试版](https://itunes.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)。安卓用户可以直接下载[apk文件](https://dapp.tokenpocket.pro/apk/TokenPocket.apk)，或是到[谷歌商店](https://play.google.com/store/apps/details?id=vip.mytokenpocket)安装。
+李老师又在书里卖私货了，要说最广泛应用的多币种钱包，mixin无论从哪个角度来说都排不上号吧？在巴比特推出的[2019区块链价值榜白皮书](https://www.8btc.com/article/510690)中，排在前五的分别是Cobo，比特派，麦子钱包，TokenPocket，Imtoken。其中[TokenPocket](https://www.tokenpocket.pro/)因为更新频繁，功能丰富，大量集成了各类第三方dapp应用，成为了大量币圈入门用户的首选。
 
 **</小刀批注>**
 
