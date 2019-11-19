@@ -673,8 +673,7 @@ Fork这个版本，或许是出于对老师这个角色言行不一的反感。�
 
 李老师的很多思想确实值得我们学习，例如践行与群智。
 JKR版区块链小白书，是一本集合群智的书，我们希望有非常不同的声音告诉小白们真实的区块链世界，欢迎你加入我们。
-如果你有兴趣参与编辑，可以私信微博“JKR家人组”，为了避免混乱，目前采取邀请制的编辑，后续会视情况开放众包编辑。
-如果你对这个项目觉得好玩有趣，欢迎转发，或者到[jkr-family@github](https://github.com/jkr-family/jkrfamily.com)给我们点赞。
+如果你有兴趣参与编辑，可以私信微博“JKR家人组”，或者到[jkr-family@github](https://github.com/jkr-family/jkrfamily.com)给我们直接发pull request。
 
 **</墨客批注>**
 
