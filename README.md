@@ -1,4 +1,4 @@
-# 区块链小白书批注版
+# 区块链小白书（JKR批注版）
 
 [李笑来](http://lixiaolai.com)（著）&copy; [JKR Family](http://jkrfamily.com)（批注）2019
 
