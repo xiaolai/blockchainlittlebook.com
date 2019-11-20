@@ -648,6 +648,19 @@ git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
 git pull upstream master
 git push -u origin master
 ```
+-----
+
+## 关于批注版
+
+在你按照上面的方式注册好账户并Fork了本项目仓库之后，请按照以下的命令让自己的 Fork 保持更新：
+
+```bash
+git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
+cd blockchainlittlebook.com
+git remote add upstream https://github.com/jkr-family/jkrfamily.com
+git pull upstream master
+git push -u origin master
+```
 
 ## 关于作者
 
