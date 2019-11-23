@@ -411,7 +411,7 @@ one vc官网中可以找到，该投资基金已经投出的15个区块链项目
 
 **</星主注>**
 
-上面的小饭犯了点小错误，白皮书里eos的bp确实是出6个区块一换，而现在实际eos是12个区块一换，更不容易分叉https://eostracker.io/blocks  。EOS的共识机制为DPOS+PBFT。是对POS与BFT共识机制的优秀改进与应用。dpos当然不等于pos。混淆pos和dpos在一年前还是比较有市场的，当时https://www.stakingrewards.com/charts 的数据看，eos的“s”量，比pos类公链前十加起来还多。可是时至今日我们再看该网站统计。第二第三第四加起来总和的“s”量就已经超越了EOS。他们所代表的Tendermint等pos改进机制同样优秀。我们可以看到eos在pos版图中的霸主地位是肉眼可见的速度在跌落。
+~~上面的小饭犯了点小错误，白皮书里eos的bp确实是出6个区块一换，而现在实际eos是12个区块一换，更不容易分叉https://eostracker.io/blocks。~~ EOS的共识机制为DPOS+PBFT。是对POS与BFT共识机制的优秀改进与应用。dpos当然不等于pos。混淆pos和dpos在一年前还是比较有市场的，当时https://www.stakingrewards.com/charts 的数据看，eos的“s”量，比pos类公链前十加起来还多。可是时至今日我们再看该网站统计。第二第三第四加起来总和的“s”量就已经超越了EOS。他们所代表的Tendermint等pos改进机制同样优秀。我们可以看到eos在pos版图中的霸主地位是肉眼可见的速度在跌落。
 
 **</星主注>**
 
