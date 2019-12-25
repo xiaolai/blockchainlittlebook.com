@@ -473,7 +473,7 @@ Fork 完成之后，点开 Settings
 >
 > host: www
 >
-> Anser: *your-github-username*.github.io
+> Answer: *your-github-username*.github.io
 
 我的设置如下：
 
